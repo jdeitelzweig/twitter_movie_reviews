@@ -3,7 +3,7 @@ nltk==3.5
 twython==3.8.2
 textblob==0.15.3
 botometer==1.4
-numpy==1.18.1
+numpy==1.22.0
 matplotlib==3.2.1
 jupyter==1.0.0
 
