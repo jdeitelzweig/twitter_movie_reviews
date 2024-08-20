@@ -1,5 +1,5 @@
 scikit-learn==0.22.2.post1
-nltk==3.5
+nltk==3.9
 twython==3.8.2
 textblob==0.15.3
 botometer==1.4
